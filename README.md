@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on GoBrunch<br>🌱 I’m currently learning about LUA language and neovim<br>💬 Ask me about Machine Learning or Web Development related topics
 
 
