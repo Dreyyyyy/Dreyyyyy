@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on GoBrunch and studying Computer Science at UTFPR,<br>Currently learning about Cyber Security, neovim and MCP,<br>Ask me about ML,Web Dev or Cyber Security related topics.
+I’m currently working on GoBrunch and studying Computer Science at UTFPR,<br>Currently learning about Cyber Security, neovim and MCP,<br>Ask me about ML, Web Dev or Cyber Security related topics.
 
 
 ## Socials:
