@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on GoBrunch and studying Computer Science at UTFPR,<br>Currently learning about Cyber Security and Machine Learning,<br>Ask me about ML, Web Dev or Cyber Security related topics.
+I’m currently working at GoBrunch and pursuing a degree in Computer Science at UTFPR. In my spare time, I enjoy developing projects focused on Machine Learning, Cybersecurity, and Competitive Programming.
 
 
 ## Socials:
